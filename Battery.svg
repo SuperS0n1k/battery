@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xml:space="preserve" xmlns:vectornator="http://vectornator.io" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 100 100">
+<metadata>
+<vectornator:setting value="false" key="IsTimeLapseWatermarkDisabled"/>
+<vectornator:setting value="Pixels" key="WDUnits"/>
+<vectornator:setting key="WDDisplayWhiteBackground" value="false"/>
+<vectornator:setting key="WDCMYKEnabledKey" value="false"/>
+<vectornator:setting key="VNSnapToGuides" value="true"/>
+<vectornator:setting key="WDSnapToGrid" value="false"/>
+<vectornator:setting value="false" key="WDOutlineMode"/>
+<vectornator:setting key="VNPencilOnly" value="false"/>
+<vectornator:setting value="true" key="WDRulersVisible"/>
+<vectornator:setting key="VNDimensionsVisible" value="true"/>
+<vectornator:setting key="WDSnapToEdges" value="false"/>
+<vectornator:setting value="false" key="WDIsolateActiveLayer"/>
+<vectornator:setting key="WDDynamicGuides" value="false"/>
+<vectornator:setting key="WDSnapToPoints" value="false"/>
+<vectornator:setting key="WDGuidesVisible" value="true"/>
+<vectornator:setting key="UndoHistoryDisabled" value="false"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path stroke="#79797c" opacity="1" stroke-linejoin="round" stroke-width="2.786" stroke-linecap="round" d="M34.79+39.3143L59.7807+39.3143C65.6823+39.3143+70.4665+44.0984+70.4665+50L70.4665+50C70.4665+55.9016+65.6823+60.6857+59.7807+60.6857L34.79+60.6857C28.8884+60.6857+24.1043+55.9016+24.1043+50L24.1043+50C24.1043+44.0984+28.8884+39.3143+34.79+39.3143Z" fill="#000000" fill-opacity="0"/>
+<path d="M72.9786+45.9102C74.5897+45.9102+75.8957+47.7343+75.8957+49.9844C75.8957+52.2345+74.5897+54.0586+72.9786+54.0586C72.9786+54.0586+72.9785+45.9102+72.9786+45.9102Z" fill="#79797c" opacity="1"/>
+<path stroke-width="16.02" fill="#000000" d="M34.3538+49.9844L59.4697+49.9844L34.3538+49.9844Z" stroke="#000000" opacity="1" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+</svg>
